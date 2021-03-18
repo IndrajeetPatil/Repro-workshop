@@ -1,3 +1,7 @@
 ~%2FRepro-workshop%2F.dockerignore="B582B6A6"
+~%2FRepro-workshop%2F.repro%2FDockerfile_base="9C4D3767"
+~%2FRepro-workshop%2F.repro%2FDockerfile_manual="52E8C700"
+~%2FRepro-workshop%2FDockerfile="35FA097B"
 ~%2FRepro-workshop%2FMakefile="1FC13BB7"
+~%2FRepro-workshop%2FR%2Fclean.R="56E21DDE"
 ~%2FRepro-workshop%2Fmarkdown.Rmd="14D09E82"
