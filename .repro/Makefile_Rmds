@@ -1,0 +1,3 @@
+markdown.html: markdown.Rmd data/mtcars.csv R/clean.R
+	$(RUN1) Rscript -e 'rmarkdown::render("$(WORKDIR)/$<", "all")' $(RUN2)
+
